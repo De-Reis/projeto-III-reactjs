@@ -13,6 +13,7 @@ function ApplicationRoutes() {
                 <Route path="portifolio" element={<Portifolio />} />
                 <Route path="comentarios" element={<Comentarios />} />
             </Routes>
+            
         </BrowserRouter>
 
     )
