@@ -21,7 +21,7 @@
   
   input {
     background: #fff;
-    border: 0.5 solid #686AAC;
+    border: 0.5 solid #cf8e69;
     padding: 12px 24px;
     border-radius: 8px;
     height: 100px;
@@ -41,7 +41,7 @@
   }
   
   .add-task {
-    background:#686AAC;
+    background:#cf8e69;
     width: 300px;
   }
   

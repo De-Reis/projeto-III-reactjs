@@ -3,7 +3,9 @@ import Sobre from '../pages/Sobre/Sobre'
 import Portifolio from '../pages/Portifolio/Portifolio'
 import Comentarios from '../pages/Comentarios/Comentarios'
 import Menu from '../components/Menu/Menu'
+import Footer from '../components/Footer/Footer'
 
+    
 function ApplicationRoutes() {
     return(
         <BrowserRouter>
@@ -13,7 +15,7 @@ function ApplicationRoutes() {
                 <Route path="portifolio" element={<Portifolio />} />
                 <Route path="comentarios" element={<Comentarios />} />
             </Routes>
-            
+            <Footer />
         </BrowserRouter>
 
     )

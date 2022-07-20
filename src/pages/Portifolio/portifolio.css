@@ -8,7 +8,7 @@
   width: 75%;
   align-items: center;
   height: 80%;
-  background-color: #686AAC;
+  background-color: #cf8e69;
   text-align: center
 }
 
@@ -29,7 +29,7 @@
 .skills {
   padding-top: 50px;
   text-align: center;
-  color: #686AAC;
+  color: #cf8e69;
   font-size: 48px;
 }
 
@@ -46,7 +46,7 @@
 .card {
   height: 150px;
   width: 300px;
-  background-color: #686AAC;
+  background-color: #cf8e69;
   border-radius: 4px;
   color: white;
   padding: 8px;
@@ -64,7 +64,7 @@
 .titulo {
   padding-top: 50px;
   text-align: center;
-  color: #686AAC;
+  color: #cf8e69;
   font-size: 48px;
 }
   

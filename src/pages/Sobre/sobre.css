@@ -1,0 +1,62 @@
+
+body {
+    padding:0;
+    margin:0
+}
+
+.apresentacao {
+    padding: 80px;
+    text-align: center;
+    color: #cf8e69;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 300px;
+  
+}
+
+.apresentacao h1 {
+    color: #781D42;
+}
+
+.apresentacao h3 {
+    color: #cf8e69;
+    font-size: 1.3rem;
+}
+
+
+.foto-denise {
+    height: 300px;
+    border-radius: 40px;
+
+
+}
+
+.text-sobre {
+    padding: 0 50px;
+    font-size: 1.6rem;
+    color: #a9a9a9;
+    font-weight: bold
+
+}
+
+.text-intro {
+    padding: 0 50px;
+    font-size: 1.4rem;
+    color: #a9a9a9;
+
+    
+}
+
+.redes {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.redes img {
+    height:50px;
+    margin:10px auto;
+}
+

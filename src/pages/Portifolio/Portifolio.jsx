@@ -9,35 +9,35 @@ import './portifolio.css'
 const list = [
   {
     id: 1,
-    nome: 'Quero ser devMeu ',
-    descricao: 'Um site com conteúdos de introdução à programação.',
+    nome: 'Meu primeiro site ',
+    descricao: 'Um site de apresentação feito na oficina de seleção.',
     conteudo: 'Feito com html, css e js.',
-    imagem: 'https://media.giphy.com/media/NpKOhpooYL1Rr7Uuav/giphy.gif',
-    link: 'https://queroserdev.com/'
+    imagem: 'https://media.giphy.com/media/R44PRGGkA7Ptpd2bRd/giphy.gif',
+    link: 'https://denise-reis.netlify.app/'
   },
   {
     id: 2,
-    nome: 'TODO list',
-    descricao: 'Uma aplicação em react para fazer um todo list ',
-    conteudo: 'React hooks e testar os componente com testing library.',
-    imagem: 'https://media.giphy.com/media/OUxAsqI6AeAGqMQhFz/giphy.gif',
-    link: 'https://thirsty-noyce-28045f.netlify.app/'
+    nome: 'M de Maravilhosa',
+    descricao: 'Um site sobre uma mulher forte e inspiradora ',
+    conteudo: 'Feito com html, css e js.',
+    imagem: 'https://media0.giphy.com/media/E4WbgIE71iO9lToNQ2/giphy.gif?cid=790b7611304c0acf171842cdf4730f0bb43f9ae7bceb892c&rid=giphy.gif&ct=g',
+    link: 'https://reprogramaprojeto1-mariellefranco.netlify.app/'
   },
   {
     id: 3,
-    nome: 'Rick And Morty',
-    descricao: 'Um site em react para demonstrar e buscar personagens de Ricky and Morty',
-    conteudo: 'React: fundamentos, components, hooks, eventos e consumos de API.',
-    imagem: 'https://media.giphy.com/media/fB9TNMAGEPmq3Z1Iye/giphy.gif',
-    link: 'https://rickandmortytiktok.netlify.app/'
+    nome: 'Meu diário na Reprograma',
+    descricao: 'Meu primeiro site react onde eu descrevi meus 4 momentos mais marcantes na Reprograma',
+    conteudo: 'React: fundamentos, components e props.',
+    imagem: 'https://media2.giphy.com/media/KMwUvVRzfzuXneS0Lb/giphy.gif?cid=790b76112a0bf614ad0e5d6d1bbe66fdfd84634861d14f4a&rid=giphy.gif&ct=g',
+    link: 'https://guileless-liger-fe8995.netlify.app/'
   },
   {
     id: 4,
-    nome: 'Meu Portfolio',
-    descricao: 'Um site em react para demonstrar meu portfolio',
+    nome: 'Meu Portfólio',
+    descricao: 'Um site em react do meu primeiro portfólio',
     conteudo: 'React: fundamentos, components, rotas, hooks, eventos e consumos de API.',
-    imagem: 'https://media.giphy.com/media/RaT2tOOlt1WPIb7sGA/giphy.gif',
-    link: 'https://portfolio-aula-react.netlify.app/'
+    imagem: 'https://media3.giphy.com/media/IXuI2mtxOQ6saHmaLQ/giphy.gif?cid=790b76113eaa96bccced5cc0d18e9d5906ae774212c2eb4c&rid=giphy.gif&ct=g',
+    link: ''
   }
 ]
 

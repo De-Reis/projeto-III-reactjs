@@ -6,6 +6,11 @@
     overflow: hidden;
     width: 80%;
     margin: 0 auto;
+    background-color: #cf8e69;
+    height:100px;
+    flex-direction:row;
+    width:100%
+    
   }
   
   .item {
@@ -19,7 +24,8 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    color: #686AAC;
+    color: white;
+    
   }
   
   body, input, button, textarea{
