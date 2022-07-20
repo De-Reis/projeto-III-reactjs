@@ -4,7 +4,7 @@ Este é um projeto feito em do zero em ReactJS.
 React: fundamentos, components, rotas, hooks, eventos e consumos de API.
 
 
-[Link do projeto]()
+[Link do projeto](https://62d86955164c7b11ba7351db--cool-lebkuchen-5533ff.netlify.app/portifolio)
 
 
 ## Descrição do projeto
